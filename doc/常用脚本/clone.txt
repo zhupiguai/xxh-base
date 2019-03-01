@@ -1,0 +1,27 @@
+mkdir xd-base
+
+cd xd-base
+
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-common.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-credpay-web.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-loans-notify-didi.git
+
+git clone http://gitlab.dafycredit.com/szqk-xd-base/config-files.git
+
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-demo.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-common.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-cloud.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-reconciliation.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-loans-notify-web.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-loans-service.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-loans-web.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-pay-service.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-pay-gateway-service.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-web.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-cft-service.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-uc-service.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-sys-service.git
+git clone http://gitlab.dafycredit.com/szqk-xd-base/qk-xd-service.git
+

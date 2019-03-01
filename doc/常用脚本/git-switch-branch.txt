@@ -1,0 +1,4 @@
+cd qk
+git checkout dev
+git pull
+cd ../

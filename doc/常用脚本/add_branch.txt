@@ -1,0 +1,44 @@
+例子：
+
+git checkout -b qk_0306_ppm 创建本地分支，并切换到该分支
+git push origin qk_0306_ppm 推送分支到远端
+git branch --set-upstream-to  origin/qk_0306_ppm qk_0306_ppm   关联分支
+
+----重构----
+
+cd qk
+git checkout -b v2.0.0-20180518
+git push origin v2.0.0-20180518
+git branch --set-upstream-to  origin/v2.0.0-20180518 v2.0.0-20180518
+cd ../
+
+cd qk-loans-service
+git checkout -b v2.0.0-20180518
+git push origin v2.0.0-20180518
+git branch --set-upstream-to  origin/v2.0.0-20180518 v2.0.0-20180518
+cd ../
+
+cd qk-common
+git checkout -b v2.0.0-20180518
+git push origin v2.0.0-20180518
+git branch --set-upstream-to  origin/v2.0.0-20180518 v2.0.0-20180518
+cd ../
+
+cd qk-loans-web
+git checkout -b v2.0.0-20180518
+git push origin v2.0.0-20180518
+git branch --set-upstream-to  origin/v2.0.0-20180518 v2.0.0-20180518
+cd ../
+
+cd qk-uc-service
+git checkout -b v2.0.0-20180518
+git push origin v2.0.0-20180518
+git branch --set-upstream-to  origin/v2.0.0-20180518 v2.0.0-20180518
+cd ../
+
+cd qk-sys-service
+git checkout -b v2.0.0-20180518
+git push origin v2.0.0-20180518
+git branch --set-upstream-to  origin/v2.0.0-20180518 v2.0.0-20180518
+cd ../
+

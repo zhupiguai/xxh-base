@@ -1,0 +1,6 @@
+cd qk
+git checkout dev
+git pull
+git merge v2.0.0-20180518
+cd ../
+

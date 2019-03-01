@@ -1,0 +1,7 @@
+1.配置文件优先级 远程》本地-环境》本地application.yml
+
+git clone https://github.com/astarring/mybatis-generator-gui
+
+用 mybatis-generator-gui 生成代码xml mapper
+在 <insert id="insertSelective" useGeneratedKeys="true" keyProperty="id"
+添加useGeneratedKeys="true" keyProperty="id" ，返回里带新插入的ID。

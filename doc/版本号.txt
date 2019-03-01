@@ -1,0 +1,26 @@
+版本号：
+大版本号.小版本号.修bug号-SNAPSHOT
+如：
+<groupId>com.titans</groupId>
+<artifactId>titans-id-api</artifactId>
+<version>2.0.0-SNAPSHOT</version>
+
+git分支号：
+v2.1.0-YYYYMMDD  日期是创建分支的时间
+如：
+v2.1.0-20180612
+
+
+上线时打tag
+tag名字规范：YYYYMMDD_v大版本号.小版本号.修bug号.打tag序号  日期是创建tag的时间
+如:
+prod-20180713-v1.8.0.1
+
+
+版本号记录：
+
+信用付：
+v2.1.0-20180612
+
+商城：
+v2.2.0-20180717
